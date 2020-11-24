@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ911
   title: བློ་རྟགས་ཀྱི་མཐའ་དཔྱོད
-  volume: ''
+  volume:
+    c86291cf2077497fbcb664822a585d07:
+      image_group_id: I1CZ970
+      title: Volume 1 of blo rtags kyi mtha' dpyod
+      volume_number: 1
+      total_pages: 88
   author: ''
+ebook_metadata:
+  title: བློ་རྟགས་ཀྱི་མཐའ་དཔྱོད
+  author: ''
+  sku: P008072
+  cover: cover.jpg
+  layers:
+  - pagination
